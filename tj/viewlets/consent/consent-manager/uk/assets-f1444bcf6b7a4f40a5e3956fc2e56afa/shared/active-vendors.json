@@ -1,0 +1,139 @@
+{
+  "activeVendorListVersion": 1.4,
+  "iab": [
+    {
+      "id": 77,
+      "friendlyName": "Comscore B.V."
+    },
+    {
+      "id": 50,
+      "friendlyName": "Adform"
+    },
+    {
+      "id": 163,
+      "friendlyName": "Bombora Inc."
+    },
+    {
+      "id": 91,
+      "friendlyName": "Criteo SA"
+    },
+    {
+      "id": 755,
+      "friendlyName": "Google Advertising Products"
+    },
+    {
+      "id": 16,
+      "friendlyName": "RTB House S.A."
+    },
+    {
+      "id": 132,
+      "friendlyName": "Teads"
+    },
+    {
+      "id": 25,
+      "friendlyName": "Verizon Media EMEA Limited"
+    },
+    {
+      "id": 32,
+      "friendlyName": "Xandr, Inc."
+    },
+    {
+      "id": 1006,
+      "friendlyName": "Onesoon Limited t/a Adalyser"
+    },
+    {
+      "id": 730,
+      "friendlyName": "INFOnline GmbH"
+    },
+    {
+      "id": 506,
+      "friendlyName": "Salesforce.com, Inc."
+    },
+    {
+      "id": 804,
+      "friendlyName": "LinkedIn Ireland Unlimited Company"
+    },
+    {
+      "id": 373,
+      "friendlyName": "Nielsen Marketing Cloud"
+    },
+    {
+      "id": 907,
+      "friendlyName": "AWIN AG",
+      "enabledForProfiles": ["stepstone-uk", "property-nijobs"]
+    },
+    {
+      "id": 42,
+      "friendlyName": "Taboola Europe Limited",
+      "enabledForProfiles": ["stepstone-uk", "stepstone-de"]
+    }
+  ],
+  "non-iab": [
+    {
+      "id": 1,
+      "friendlyName": "Facebook",
+      "privacyPolicyLink": "https://en-gb.facebook.com/policies/ads/"
+    },
+    {
+      "id": 2,
+      "friendlyName": "Bing",
+      "privacyPolicyLink": "https://about.ads.microsoft.com/en-gb/resources/policies/microsoft-advertising-privacy-policy"
+    },
+    {
+      "id": 3,
+      "friendlyName": "Twitter",
+      "privacyPolicyLink": "https://twitter.com/en/privacy"
+    },
+    {
+      "id": 4,
+      "friendlyName": "Adobe Analytics",
+      "privacyPolicyLink": "https://www.adobe.com/uk/privacy/policy.html"
+    },
+    {
+      "id": 5,
+      "friendlyName": "Adobe Target",
+      "privacyPolicyLink": "https://www.adobe.com/uk/privacy/policy.html"
+    },
+    {
+      "id": 6,
+      "friendlyName": "Hotjar",
+      "privacyPolicyLink": "https://www.hotjar.com/legal/policies/privacy/"
+    },
+    {
+      "id": 7,
+      "friendlyName": "Google Analytics",
+      "privacyPolicyLink": "https://policies.google.com/privacy?hl=en-US"
+    },
+    {
+      "id": 8,
+      "friendlyName": "Selligent",
+      "privacyPolicyLink": "https://www.selligent.com/privacy-policy"
+    },
+    {
+      "id": 9,
+      "friendlyName": "Lead Forensics",
+      "privacyPolicyLink": "https://www.leadforensics.com/privacy-and-cookies/"
+    },
+    {
+      "id": 10,
+      "friendlyName": "Qualtrics",
+      "privacyPolicyLink": "https://www.qualtrics.com/privacy-statement/"
+    },
+    {
+      "id": 11,
+      "friendlyName": "Adjust",
+      "privacyPolicyLink": "https://www.adjust.com/terms/privacy-policy/"
+    },
+    {
+      "id": 912,
+      "friendlyName": "Snap Inc.",
+      "privacyPolicyLink": "https://values.snap.com/privacy/privacy-policy"
+    },
+    {
+      "id": 76,
+      "friendlyName": "TikTok",
+      "privacyPolicyLink": "https://ads.tiktok.com/i18n/official/policy/privacy",
+      "enabledForProfiles": ["stepstone-de"]
+    }
+  ]
+}
